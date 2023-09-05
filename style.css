@@ -1,3 +1,8 @@
 /* Chain the class selectors and add CSS styling rule to resizing the image, without distorting it */
 
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
 /* Chain the class selectors and add CSS styling rule to distort the image */
