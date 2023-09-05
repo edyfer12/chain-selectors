@@ -6,3 +6,8 @@
 }
 
 /* Chain the class selectors and add CSS styling rule to distort the image */
+
+.avatar.distorted {
+    width: 200px;
+    height: 100%;
+}
